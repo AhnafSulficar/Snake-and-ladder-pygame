@@ -1,7 +1,7 @@
 import pygame
 import random
 import time 
-
+diceroll=0
 pygame.init()
 
 screen= pygame.display.set_mode((1050 ,650))
