@@ -22,7 +22,7 @@ arrow=pygame.image.load("arrow.png")
 button=pygame.Rect(50,60,60,60)
 
 def bck():
-    screen.blit(img2,(0,300))
+    screen.blit(img3,(0,300))
     screen.blit(img1,(450,15))
     screen.blit(roll,(30,50))
     screen.blit(arrow,(130,83))
